@@ -1,0 +1,7 @@
+# Directories
+build/
+
+# Temporary files
+*.o
+*.exe
+*.out
